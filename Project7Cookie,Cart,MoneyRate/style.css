@@ -1,0 +1,15 @@
+.btn-add {
+  font-weight: bold;
+  padding: .4em 40px !important;
+  background: salmon !important;
+  border-color: rgb(255, 179, 170) !important;
+}
+
+.btn-add:hover {
+  background: lightsalmon !important;
+}
+
+.bg-salmon {
+  background: rgb(241, 124, 111) !important;
+}
+
